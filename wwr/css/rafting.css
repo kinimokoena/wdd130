@@ -10,6 +10,10 @@
     margin: 20px 0;
 }
 
+.google-map {
+    border: 0;
+}
+
 .employee-profiles {
     padding: 20px;
 }
@@ -50,8 +54,6 @@
     background-color: #0056b3; /* Darker shade for hover */
 }
 
-
-
 footer nav {
     display: flex;
     gap: 10px; /* Space between social icons */
@@ -60,7 +62,3 @@ footer nav {
 footer nav a img {
     width: 40px;
 }
-
-
-
-
